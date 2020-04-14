@@ -1,3 +1,3 @@
 # [reinforcement-learning.ai](http://reinforcement-learning.ai/)
 
-Everything about Reinforcement Learning
+Website with everything about Reinforcement Learning. Idea in progress
